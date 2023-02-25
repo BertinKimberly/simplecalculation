@@ -1,0 +1,15 @@
+{
+  "name": "rest-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "product.js",
+  "scripts": {
+    "start": "nodemon calculate.js"
+  },
+  "author": "bertin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
