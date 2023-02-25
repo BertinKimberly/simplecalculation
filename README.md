@@ -1,4 +1,4 @@
-This package is used after being installed:
+# This package is used after being installed 
 
 To install it type:
    
